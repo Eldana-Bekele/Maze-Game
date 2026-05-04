@@ -45,10 +45,10 @@ public class GameController implements KeyListener, ActionListener {
     public void keyPressed(KeyEvent e) {
 
         if (model.getGameState() == GameModel.GameState.LOST &&
-            e.getKeyCode() == KeyEvent.VK_R) {
-            model.loadLevel(1);
-            return;
-        }
+        e.getKeyCode() == KeyEvent.VK_R) {
+        model.loadLevel(model.getLevel());
+        return;
+    }
 
         if (model.getGameState() == GameModel.GameState.WON &&
             e.getKeyCode() == KeyEvent.VK_ENTER) {

@@ -1,4 +1,3 @@
-
 Maze Game — Complete One‑Page MVC Specification
 MODEL (Game State & Logic)
 Core Data
