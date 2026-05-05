@@ -11,11 +11,11 @@ PROMPT: Make the users moves much more smoother and easier to work with.
     RESULT: This time, the moves were much faster and smooth, allowing for the game to be much more enjoyable 
 
 PROMPT: Once the user gets to level 5, create a monster that if touched causes the user to lose.
-    RESULT: I got a monster that was very quick and followed the user which made winning nearly imposible, even from level 1. I wanted it to be toned down a bit.
+    RESULT: I got a monster that was very quick and followed the user which made winning nearly imposible, even from level 5. I wanted it to be toned down a bit.
 
 PROMPT: Make the monster a bit slower, right now it is too hard for the user to win, the monster should roam around the maze, not fully chase the user.
 
-RESULT: i got a monster that was slower and roamed the maze, once the user gets close to it, it chases after them, but still keeps winning easily doable and not impossible. 
+    RESULT: i got a monster that was slower and roamed the maze, once the user gets close to it, it chases after them, but still keeps winning easily doable and not impossible. 
 
 PROMPT: By the time the user gets to level 10, i want there to be 2 more monsters. Do not chnage any other logic, only add in those 2 monsters. 
 
